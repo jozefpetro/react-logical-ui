@@ -1,19 +1,21 @@
 # react-logical-ui
+## Usage
 Logical UI library for ReactJS
 
-## Setup
+## Development
+### Setup
 ```
 npm start
 ```
-## Development
+### Run
 ```
 npm run docz:dev
 ```
-## Build Docs
+### Build Docs
 ```
 npm run docz:build
 ```
-## Build Library
+### Build Library
 ```
 npm run build
 ```
