@@ -1,0 +1,25 @@
+{
+  "name": "react-logical-ui",
+  "version": "1.0.0",
+  "description": "Logical UI library for ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozefpetro/react-logical-ui.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "logical",
+    "ui",
+    "library"
+  ],
+  "author": "SudoLab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jozefpetro/react-logical-ui/issues"
+  },
+  "homepage": "https://github.com/jozefpetro/react-logical-ui#readme"
+}
