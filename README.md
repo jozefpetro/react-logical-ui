@@ -5,17 +5,13 @@ Logical UI library for ReactJS
 ## Development
 ### Setup
 ```
-npm start
+npm install
 ```
 ### Run
 ```
-npm run docz:dev
+npm start
 ```
-### Build Docs
-```
-npm run docz:build
-```
-### Build Library
+### Build
 ```
 npm run build
 ```
