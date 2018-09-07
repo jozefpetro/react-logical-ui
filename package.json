@@ -5,6 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "build": "rollup -c",
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -34,6 +36,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-stage-3": "^7.0.0",
+    "docz": "^0.11.1",
     "rollup": "^0.65.2",
     "rollup-plugin-babel": "^4.0.3",
     "rollup-plugin-commonjs": "^9.1.6",
