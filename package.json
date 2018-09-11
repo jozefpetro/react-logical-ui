@@ -2,7 +2,7 @@
   "name": "react-logical-ui",
   "version": "1.0.0",
   "description": "Logical UI library for ReactJS",
-  "main": "src/index.js",
+  "main": "build/bundle.js",
   "scripts": {
     "start": "npm-run-all --parallel docz:dev rollup:dev",
     "build": "npm-run-all rollup:build docz:build",
