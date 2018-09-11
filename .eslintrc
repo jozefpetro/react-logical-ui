@@ -62,7 +62,12 @@
     "function-paren-newline": 0,
     "react/no-array-index-key": 0,
     "no-restricted-globals": 0,
-    "react/no-did-mount-set-state": 0
+    "react/no-did-mount-set-state": 0,
+    "react/prefer-stateless-function": 0,
+    "prefer-destructuring": 0
+  },
+  "settings": {
+    "import/core-modules": ["react-logical-ui"]
   },
   "globals": {
     "window": true,

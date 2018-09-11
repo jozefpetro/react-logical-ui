@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import { HelloWorld } from 'react-logical-ui'
 
 class App extends Component {
@@ -7,8 +7,8 @@ class App extends Component {
       <div className="App">
         <HelloWorld fontSize={20} />
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
