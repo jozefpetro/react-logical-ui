@@ -15,3 +15,13 @@ npm start
 ```
 npm run build
 ```
+### Demo app usage
+- You need to link react-logical-ui first
+```
+cd demo-app
+npm link ../../react-logical-ui
+```
+- Then run it
+```
+npm start
+```
